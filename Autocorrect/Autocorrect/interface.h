@@ -9,5 +9,4 @@ class Interface {
 public:
 	Interface();
 };
-
 #endif
